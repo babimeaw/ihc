@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "titulo": "Bolo de Chocolate",
+      "ingredientes": "Farinha, açúcar, chocolate, ovos...",
+      "modoPreparo": "1. Misture os ingredientes..."
+    },
+    {
+      "id": 2,
+      "titulo": "Lasanha de Frango",
+      "ingredientes": "Massa de lasanha, peito de frango, molho de tomate...",
+      "modoPreparo": "1. Cozinhe o frango e desfie...\n2. Montagem: intercale camadas de massa, frango e molho..."
+    },
+    {
+      "id": 3,
+      "titulo": "Hamburguer Perfeito da Tamy",
+      "ingredientes": "Pão de água, carne moída com bacon moído, alface, milho, queijo, bacon e temperos",
+      "modoPreparo": "1. Lave e corte a alface...\n2. Sele o pão com manteiga...\n3. Tempere a carne já no formato de hamburguer em cima e em baixo.."
+    }
+  ]
+  
